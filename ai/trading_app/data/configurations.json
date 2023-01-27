@@ -1,9 +1,0 @@
-{
-  "max_episodes": 77,
-  "lr": 0.0002,
-  "gamma": 0.988,
-  "batch_size": 5000,
-  "hidden_layers": 63,
-  "brain_path": "brain-2.pth",
-  "optim_path": "optim-2.pth"
-}
