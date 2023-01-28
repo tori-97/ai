@@ -1,0 +1,7 @@
+{
+  "name": "Mario",
+  "lr": 0.00025,
+  "hidden_layers": 33,
+  "gamma": 0.998,
+  "discounter_rate": 88
+}

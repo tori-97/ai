@@ -1,0 +1,13 @@
+[Unit]
+Description=AiTrading Bot WebSocket
+After=network.target
+
+[Service]
+ExecStart=/home/tori/Phanes/Dev/projects/ai-trading-v2/run
+Type=simple
+Restart=always
+RestartSec=5
+TimeoutSec=60
+
+[Install]
+WantedBy=multi-user.target
