@@ -233,32 +233,4 @@ response:
                 }
 
 ```
-
-
-## Structure:
-    websockets:
-        __init__.py
-
-            class Websocket():
-                __create_socket()
-                doWebSocketHandshake()
-                serve()
-
-        __main__.py
-            class Console():
-                do_start()
-                do_exit()
-                do_status()
-                do_clients()
-
-
-        configuration.py (host, port)
-        lib/
-            __init__.py
-            client.py
-            frame.py
-            response.py
-        tasks/
-            __init__.py
-            handler.py
             
