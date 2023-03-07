@@ -2,12 +2,6 @@
 
 Available Tasks:
 
-TODO:
-    [] try to build restore connection open, to be able to close browser and open again.
-        Solution:
-            - create database to save all incomming connections and returns session id when its connected to client
-            - with the connection id is possible to get the right connection back
-
 # Client
 
 ---
