@@ -3,7 +3,7 @@ Description=AiTrading Bot WebSocket
 After=network.target
 
 [Service]
-ExecStart=/home/tori/Phanes/Dev/projects/ai-trading-v2/run
+ExecStart=<path>/ai-trading-v2/run
 Type=simple
 Restart=always
 RestartSec=5
