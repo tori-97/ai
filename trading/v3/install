@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cp /home/tori/Phanes/Dev/projects/ai-trading-v2/ai-trading.service /etc/systemd/system/ai-trading.service
+cp <path>/ai-trading-v2/ai-trading.service /etc/systemd/system/ai-trading.service
 echo "[+] Service installed !!"
