@@ -1,3 +1,3 @@
 #!/bin/bash
 
-/home/tori/Phanes/Dev/projects/ai-trading-v2/.env/bin/python -m backend
+<path>/ai-trading-v2/.env/bin/python -m backend
